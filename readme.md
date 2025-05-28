@@ -107,5 +107,6 @@ We aim to make rental agreements as simple, secure, and transparent as possible 
 5. Terminate agreements using `terminateAgreement()`
 
 ---
+contract address: 0x04E047729B5270Cd7444Bb0b6Ba985d033444bD9
 
 *This project is open-source and welcomes contributions from the community. Together, we can build the future of decentralized rental agreements.*![Screenshot 2025-05-26 132855](https://github.com/user-attachments/assets/488597c2-6b39-449a-a6ca-c7327b3757bd)
