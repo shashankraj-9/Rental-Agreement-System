@@ -109,4 +109,3 @@ We aim to make rental agreements as simple, secure, and transparent as possible 
 ---
 
 *This project is open-source and welcomes contributions from the community. Together, we can build the future of decentralized rental agreements.*![Screenshot 2025-05-26 132855](https://github.com/user-attachments/assets/488597c2-6b39-449a-a6ca-c7327b3757bd)
-![Screenshot 2025-05-26 132855](https://github.com/user-attachments/assets/2e887a23-c4bb-4810-9877-d36c7a15ea61)
