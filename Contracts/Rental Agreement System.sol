@@ -173,11 +173,7 @@ contract RentalAgreementSystem {
         
         emit AgreementTerminated(_agreementId, msg.sender, _returnDeposit);
     }
-    
-    /**
-     * @dev Get agreement details
-     * @param _agreementId ID of the rental agreement
-     */
+   
     function getAgreement(uint256 _agreementId) 
         external 
         view 
@@ -186,27 +182,13 @@ contract RentalAgreementSystem {
     {
         return agreements[_agreementId];
     }
-    
-    /**
-     * @dev Get all agreement IDs for a landlord
-     * @param _landlord Address of the landlord
-     */
     function getLandlordAgreements(address _landlord) external view returns (uint256[] memory) {
         return landlordAgreements[_landlord];
     }
-    
-    /**
-     * @dev Get all agreement IDs for a tenant
-     * @param _tenant Address of the tenant
-     */
     function getTenantAgreements(address _tenant) external view returns (uint256[] memory) {
         return tenantAgreements[_tenant];
     }
-    
-    /**
-     * @dev Check if rent is due for a specific agreement
-     * @param _agreementId ID of the rental agreement
-     */
+
     function isRentDue(uint256 _agreementId) 
         external 
         view 
