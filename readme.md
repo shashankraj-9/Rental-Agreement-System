@@ -82,31 +82,6 @@ We aim to make rental agreements as simple, secure, and transparent as possible 
 - **Cross-chain Compatibility**: Bridge functionality for multi-chain operations
 - **Advanced Analytics**: Comprehensive dashboard with market insights and trends
 
----
-
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- Hardhat or Truffle development environment
-- MetaMask or similar Web3 wallet
-- Ethereum testnet ETH for deployment and testing
-
-### Installation
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Configure network settings in `hardhat.config.js`
-4. Deploy contract: `npx hardhat run scripts/deploy.js --network <network-name>`
-5. Verify contract on Etherscan (optional)
-
-### Usage
-1. Connect your Web3 wallet
-2. Deploy or connect to existing contract
-3. Create rental agreements using `createAgreement()`
-4. Pay rent using `payRent()`
-5. Terminate agreements using `terminateAgreement()`
-
----
 contract address: 0x04E047729B5270Cd7444Bb0b6Ba985d033444bD9
 
-*This project is open-source and welcomes contributions from the community. Together, we can build the future of decentralized rental agreements.*![Screenshot 2025-05-26 132855](https://github.com/user-attachments/assets/488597c2-6b39-449a-a6ca-c7327b3757bd)
+![Screenshot 2025-05-26 132855](https://github.com/user-attachments/assets/488597c2-6b39-449a-a6ca-c7327b3757bd)
