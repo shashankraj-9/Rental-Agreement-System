@@ -1,10 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-/**
- * @title Rental Agreement System
- * @dev Smart contract for managing rental agreements between landlords and tenants
- */
 contract RentalAgreementSystem {
     
     struct RentalAgreement {
