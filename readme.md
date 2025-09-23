@@ -1,4 +1,4 @@
-# Rental Agreement System
+# Rental Agreement System.
 
 ## Project Description.
 
