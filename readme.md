@@ -1,6 +1,7 @@
 # Rental Agreement System.
 
-## Project Description
+## Project Description.
+
 
 The Rental Agreement System is a blockchain-based smart contract solution built on Ethereum that digitizes and automates rental agreements between landlords and tenants. This decentralized application eliminates the need for intermediaries, reduces disputes, and ensures transparent, secure, and automated rental transactions.
 
