@@ -1,6 +1,5 @@
 # Rental Agreement System
 
-
 ## Project Description.
 
 
